@@ -14,5 +14,7 @@ public class Diff {
         diff = (a*b)-(c*d);
 
         System.out.println("A diferenca dos numeros eh "+diff);
+
+        sc.close();
     }
 }

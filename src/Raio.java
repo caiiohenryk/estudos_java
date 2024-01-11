@@ -11,5 +11,7 @@ public class Raio {
 
         res = pi*Math.pow(raio, 2);
         System.out.println("A area eh igual a "+res);
+        
+        sc.close();
     }
 }
